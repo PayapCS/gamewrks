@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Payap University Computer Science Game Works
 
 You can use the [editor on GitHub](https://github.com/PayapCS/gamewrks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
